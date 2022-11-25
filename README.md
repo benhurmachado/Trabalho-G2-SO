@@ -27,5 +27,7 @@ Por fim navegamos para o link do host:
 
 http://localhost:3000
 
+
+
 https://gitea.io/pt-br/
 https://try.gitea.io
