@@ -10,9 +10,13 @@ rodar até mesmo no barato Raspberry Pi, e possui ainda é Multi-plataforma, pod
 
 Como utilizar:
 Com o Docker/Docker Compose instalado, utilizamos os seguintes comandos:
+
 $ git clone https://github.com/docker/awesome-compose.git
+
 $ cd awesome-compose/
+
 $ cd gitea-postgres/
+
 $ sudo docker compose up -d
 
 Após o início dos containers utilizamos o seguinte comando para verificação dos mesmos:
