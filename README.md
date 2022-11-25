@@ -20,9 +20,11 @@ $ cd gitea-postgres/
 $ sudo docker compose up -d
 
 Após o início dos containers utilizamos o seguinte comando para verificação dos mesmos:
+
 $ sudo docker ps
 
 Por fim navegamos para o link do host:
+
 http://localhost:3000
 
 https://gitea.io/pt-br/
